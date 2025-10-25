@@ -38,8 +38,9 @@ Hey there! 👋 I'm Devon, a passionate frontend developer on a mission to craft
 ```
 [ LANGUAGES BREAKDOWN ]
 
-JavaScript   --> 862 lines
+JavaScript   --> 30,741 lines
+Others       --> 12,293 lines
 
-[ TOTAL LINES OF CODE: 862 ]
+[ TOTAL LINES OF CODE: 43,034 ]
 ```
 <!-- LANGUAGES BREAKDOWN END -->

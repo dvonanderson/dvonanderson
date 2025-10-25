@@ -1,19 +1,39 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 0.0211668014526367,
-  "n_files"            : 20,
-  "n_lines"            : 993,
-  "files_per_second"   : 944.875872944357,
-  "lines_per_second"   : 46913.0870916873,
+  "elapsed_seconds"    : 0.399987936019897,
+  "n_files"            : 1196,
+  "n_lines"            : 57408,
+  "files_per_second"   : 2990.09018097112,
+  "lines_per_second"   : 143524.328686614,
   "report_file"        : "../output/cloc-output.json"},
 "JavaScript" :{
-  "nFiles": 20,
-  "blank": 94,
-  "comment": 37,
-  "code": 862},
+  "nFiles": 820,
+  "blank": 6020,
+  "comment": 7038,
+  "code": 30741},
+"Handlebars" :{
+  "nFiles": 275,
+  "blank": 620,
+  "comment": 391,
+  "code": 11253},
+"Ruby" :{
+  "nFiles": 99,
+  "blank": 175,
+  "comment": 116,
+  "code": 1002},
+"INI" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 26},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 12},
 "SUM": {
-  "blank": 94,
-  "comment": 37,
-  "code": 862,
-  "nFiles": 20} }
+  "blank": 6828,
+  "comment": 7546,
+  "code": 43034,
+  "nFiles": 1196} }
