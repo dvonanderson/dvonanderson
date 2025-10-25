@@ -35,5 +35,11 @@ Hey there! 👋 I'm Devon, a passionate frontend developer on a mission to craft
 <a href="https://github.com/dvonanderson" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvonanderson&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!-- LANGUAGES BREAKDOWN START -->
+```
 [ LANGUAGES BREAKDOWN ]
+
+JavaScript   --> 862 lines
+
+[ TOTAL LINES OF CODE: 862 ]
+```
 <!-- LANGUAGES BREAKDOWN END -->
