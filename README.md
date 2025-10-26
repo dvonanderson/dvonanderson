@@ -39,7 +39,8 @@ Hey there! 👋 I'm Devon, a passionate frontend developer on a mission to craft
 [ LANGUAGES BREAKDOWN ]
 
 JavaScript   --> 30,741 lines
-Others       --> 12,293 lines
+Handlebars   --> 11,253 lines
+Others       --> 1,040 lines
 
 [ TOTAL LINES OF CODE: 43,034 ]
 ```
