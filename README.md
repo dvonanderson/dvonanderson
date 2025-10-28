@@ -40,8 +40,9 @@ Hey there! 👋 I'm Devon, a passionate frontend developer on a mission to craft
 
 JavaScript   --> 30,741 lines
 Handlebars   --> 11,253 lines
-Others       --> 1,040 lines
+Ruby         --> 1,002 lines
+Others       --> 103,144 lines
 
-[ TOTAL LINES OF CODE: 43,034 ]
+[ TOTAL LINES OF CODE: 146,140 ]
 ```
 <!-- LANGUAGES BREAKDOWN END -->
